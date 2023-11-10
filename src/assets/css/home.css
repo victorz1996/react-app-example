@@ -1,0 +1,14 @@
+.loader-view {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    background: rgba(153, 152, 152, 0.425);
+    z-index: 5;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    cursor: wait;
+}

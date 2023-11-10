@@ -1,0 +1,9 @@
+.main-container {
+    height: 100vh;
+}
+
+.form-container-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
